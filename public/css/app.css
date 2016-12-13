@@ -1,0 +1,13 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    height: 100vh;
+    margin: 0;
+}
+
+hr { border-bottom: 1px solid #9a9a9a;  }
+
+.fa-car { color: green; margin: 2px;  }
+.overLimit { color: red; }
+
+img { max-width: 100%; }
